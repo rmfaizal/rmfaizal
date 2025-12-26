@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rmfaizal
-- 👀 I’m interested in problem solving
+- 👀 Software professional in FinTech & digital banking. Strong background in payment switches, card management, EMV, APIs, and banking platforms. Exploring LangChain & LangGraph to design LLM-powered workflows, agentic pipelines, and feedback-driven refinement loops.
 
 <!---
 rmfaizal/rmfaizal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
